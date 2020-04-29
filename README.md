@@ -7,7 +7,8 @@
 4. Use Flask names 'app' to give visual output to user
 
 ## Requirement
-1. beautifulsoup4==4.8.1   Flask==1.1.1
+1. beautifulsoup4==4.8.1    Click==7.0   Flask==1.1.1  itsdangerous==1.1.0   Jinja2==2.10.3   MarkupSafe==1.1.1
+retrying==1.3.3    six==1.13.0  soupsieve==1.9.5   Werkzeug==0.16.0
 2. Need to import secret.py which provides API keys.
 3. Need to unzip the templates.zip
 
